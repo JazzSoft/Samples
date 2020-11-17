@@ -1,1 +1,8 @@
+*.suo
+*.user
+UpgradeLog.htm
 
+[Dd]ebug/
+[Rr]elease/
+[Bb]ackup/
+.vs/
