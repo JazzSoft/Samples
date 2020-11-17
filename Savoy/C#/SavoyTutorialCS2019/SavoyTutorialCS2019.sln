@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavoyTutorialCS2019", "SavoyTutorialCS2019.csproj", "{3E4DD327-09F7-4172-8260-3DE22CA342EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4DD327-09F7-4172-8260-3DE22CA342EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4DD327-09F7-4172-8260-3DE22CA342EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4DD327-09F7-4172-8260-3DE22CA342EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4DD327-09F7-4172-8260-3DE22CA342EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C704582D-B3A0-447E-A40F-7F341CC0CBAD}
+	EndGlobalSection
+EndGlobal
