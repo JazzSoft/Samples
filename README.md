@@ -1,5 +1,5 @@
 # Samples
 Sample source code for Jazz Soft products
 
-- [Savoy](https://github.com/JazzSoft/Samples/tree/master/Savoy)
+- [Savoy](Savoy)
 - [Swing](https://github.com/JazzSoft/Samples/tree/master/Swing)
