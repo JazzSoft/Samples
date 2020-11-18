@@ -1,5 +1,7 @@
+[🇺🇸 English](README.md)
+[🇯🇵 日本語](README.jp.md)
+
 # Samples
-[日本語](README.jp.md)
 
 Sample source code for Jazz Soft products
 
