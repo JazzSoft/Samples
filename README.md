@@ -3,5 +3,5 @@
 
 Sample source code for Jazz Soft products
 
-- [Savoy](Savoy)
-- [Swing](Swing)
+- [Savoy](Savoy/README.md)
+- [Swing](Swing/README.md)
