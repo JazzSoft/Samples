@@ -1,5 +1,7 @@
+[🇺🇸 English](README.md)
+[🇯🇵 日本語](README.jp.md)
+
 # サンプル
-[English](README.md)
 
 Jazz Soft製品のサンプルソースコードです。
 
