@@ -3,7 +3,7 @@
 
 # C++
 
-[🏠 home](/README.md)
-[⬆️ up](../README.md)
+[🏠 home](/README.jp.md)
+[⬆️ up](../README.jp.md)
 
 - [SavoyTutorialVC2008](SavoyTutorialVC2008)
