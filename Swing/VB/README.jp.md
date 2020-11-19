@@ -3,8 +3,8 @@
 
 # Visual Basic
 
-[🏠 home](/README.md)
-[⬆️ up](../README.md)
+[🏠 home](/README.jp.md)
+[⬆️ up](../README.jp.md)
 
 - [MiniHostSecsI](MiniHostSecsI)
 - [MiniHostSecsIVB2008](MiniHostSecsIVB2008)
